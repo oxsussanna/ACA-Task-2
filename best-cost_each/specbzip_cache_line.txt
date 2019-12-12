@@ -1,0 +1,6 @@
+Benchmarks	system.cpu.cpi	system.cpu.dcache.overall_miss_rate::total	system.cpu.icache.overall_miss_rate::total	system.l2.overall_miss_rate::total
+bzip	1.626263	0.016624	0.000076	0.148581
+mcf	NAN	NAN	NAN	NAN
+libm	1.989111	0.030487	0.000145	0.999707
+sjeng	4.972837	0.060917	0.000012	0.999911
+hmmer	1.180636	0.000884	0.000073	0.079230
