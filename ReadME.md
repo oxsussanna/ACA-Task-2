@@ -189,19 +189,19 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![Seconds](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/Seconds.jpeg)
+![Seconds](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/Seconds.jpeg)
 
 
 
-![CPI](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/CPI.jpeg)
+![CPI](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/CPI.jpeg)
 
 
 
-![icache](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/icache.jpeg)
+![icache](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/icache.jpeg)
 
-![dcache](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/dcache.jpeg)
+![dcache](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/dcache.jpeg)
 
-![L2](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/L2.jpeg)
+![L2](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/L2.jpeg)
 
 
 
@@ -257,7 +257,7 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![L1d_size](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/L1d_size.png)
+![L1d_size](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/L1d_size.png)
 
 | **CPI/L1d_size** | 16       | 32       | 64       | 128      |
 | ---------------- | -------- | -------- | -------- | -------- |
@@ -271,7 +271,7 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![L1d_assoc](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/L1dassociation.png)
+![L1d_assoc](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/L1d_assoc.png)
 
 | **CPI/L1d_assoc** | 2        | 4        | 8        | 16       |
 | ----------------- | -------- | -------- | -------- | -------- |
@@ -283,7 +283,7 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![L1i_size](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/L1isize.png)
+![L1i_size](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/L1isize.png)
 
 | **CPI/L1i_size** | 16       | 32       | 64       | 128      |
 | ---------------- | -------- | -------- | -------- | -------- |
@@ -295,7 +295,7 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![L1i_assoc](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/L1i_assoc.png)
+![L1i_assoc](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/L1iassoc.png)
 
 | **CPI/L1i_assoc** | 2        | 4        | 8        | 16       |
 | ----------------- | -------- | -------- | -------- | -------- |
@@ -307,7 +307,7 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![L2_size](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/L2size.png)
+![L2_size](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/L2size.png)
 
 | *CPI/L2_size* | 1        | 2        | 4        |
 | ------------- | -------- | -------- | -------- |
@@ -319,7 +319,7 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![L2_assoc](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/L2assoc.png)
+![L2_assoc](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/L2assoc.png)
 
 | *CPI/L2_assoc* | 2        | 4        | 8        | 16       |
 | -------------- | -------- | -------- | -------- | -------- |
@@ -331,7 +331,7 @@ Tα ζητούμενα γραφήματα:
 
 
 
-![cacheline](https://github.com/oxsussanna/-2-/blob/master/Bars%20and%20Charts/cacheline.png)
+![cacheline](https://github.com/oxsussanna/ACA-Task-2/blob/master/Bars%20and%20Charts/cacheline.png)
 
 | **CPI/cache_line** | 32        | 64       | 128      | 256      | 512      | 1024     | 2048     |
 | ------------------ | --------- | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -483,3 +483,4 @@ H πρότασή μας για την οικονομικότερη-αποδοτ�
 
 
 
+ 	
